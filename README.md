@@ -10,6 +10,10 @@ layout:page
 title: Azure patching
 Categories :azure
 ___
+---
+title: "A Trip To the Zoo"
+tags: ["animals", "Chicago", "zoos"]
+---
 
 ## Emphasis
 
