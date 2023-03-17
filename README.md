@@ -6,6 +6,9 @@
 
 ## Horizontal Rules
 
+layout:page
+title: Azure patching
+Categories :azure
 ___
 
 ## Emphasis
